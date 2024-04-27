@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Me chamo Paulo Henrique</h1>
 <h3 align="center">Sou um jovem Desenvolvedor FullStack apaixonado por tecnologia e programação. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP e sou Residente em TIC/Software no Serratec.</h3>
 
-<p allign="center">👨‍💻 Você pode conferir meu portfólio [aqui](https://paulooosf.github.io)!</p>
+- 👨‍💻 Você pode conferir meu portfólio [aqui](https://paulooosf.github.io)!
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
