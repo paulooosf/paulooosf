@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://cdn.discordapp.com/attachments/886489485599182909/1234554152743338114/Logo.png?ex=663127a6&is=662fd626&hm=417c37c2bba802901bfe149595c213a50cbb60150be7944d2b74ab6e6f36e26e&"/>
+<img align="center" src="https://i.imgur.com/llL88dm.png"/>
 </div>
 <h1 align="center">Olá, mundo! 👋</h1>
 <h3 align="center">Me chamo Paulo Henrique, prazer! Sou um jovem Desenvolvedor FullStack apaixonado por tecnologia e programação. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP e sou Residente em TIC/Software no Serratec.</h3>
