@@ -4,8 +4,6 @@
 <h1 align="center">Olá, mundo! 👋</h1>
 <h3 align="center">Me chamo Paulo Henrique, prazer! Sou um jovem Desenvolvedor FullStack apaixonado por tecnologia e programação. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP e sou Residente em TIC/Software no Serratec.</h3>
 
-<h2 align="center">Você pode conferir meu portfólio <a href="https://paulooosf.github.io" target: "_blank">aqui</a>!</h2>
-
 <div align="center">
 <img height ="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulooosf&show_icons=true&locale=en&layout=compact" alt="paulooosf"/>
 <img height ="180px" src="https://github-readme-stats.vercel.app/api?username=paulooosf&show_icons=true&locale=en" alt="paulooosf"/>
