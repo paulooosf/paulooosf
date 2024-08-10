@@ -2,7 +2,7 @@
 <img align="center" src="https://i.imgur.com/llL88dm.png"/>
 </div>
 <h1 align="center">Olá, mundo! 👋</h1>
-<h3 align="center">Me chamo Paulo Henrique, prazer! Sou um jovem Desenvolvedor FullStack apaixonado por tecnologia e programação. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP e sou Residente em TIC/Software no Serratec.</h3>
+<h3 align="center">Me chamo Paulo Henrique, prazer! Sou um jovem Desenvolvedor FullStack apaixonado por tecnologia e programação. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP.</h3>
 
 <div align="center">
 <img height ="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulooosf&show_icons=true&locale=en&layout=compact" alt="paulooosf"/>
