@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Olá, mundo! 👋</h1>
 <h3 align="center">Me chamo Paulo Henrique, prazer! Sou um jovem Desenvolvedor FullStack apaixonado por tecnologia e programação. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP.</h3>
-<h4 align="center">Caso queira visualizar meu portfólio, clique <a href="paulooosf.github.io" target="_blank">aqui</a>.</h4>
+<h3 align="center">Caso queira visualizar meu portfólio, clique <a href="https://paulooosf.github.io" target="_blank">aqui</a>.</h4>
 
 <div align="center">
 <img height ="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulooosf&show_icons=true&locale=en&layout=compact" alt="paulooosf"/>
