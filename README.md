@@ -6,8 +6,8 @@
 <h3 align="center">Caso queira visualizar meu portfólio, clique <a href="https://paulooosf.github.io" target="_blank">aqui</a>.</h4>
 
 <div align="center">
-<img height ="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulooosf&show_icons=true&locale=en&layout=compact" alt="paulooosf"/>
-<img height ="180px" src="https://github-readme-stats.vercel.app/api?username=paulooosf&show_icons=true&locale=en" alt="paulooosf"/>
+<img height ="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulooosf&show_icons=true&locale=en&layout=compact&theme=dracula" alt="paulooosf"/>
+<img height ="180px" src="https://github-readme-stats.vercel.app/api?username=paulooosf&show_icons=true&locale=en&theme=dracula" alt="paulooosf"/>
 <p align="center">
 <h3></h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" height="60px" width="60px"/>
@@ -17,18 +17,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" height="60px" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" height="60px" width="60px"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" height="60px" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" height="60px" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" height="60px" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" height="60px" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" height="60px" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sqlserver" height="60px" width="60px"/>      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" height="60px" width="60px"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" alt="delphi" height="60px" width="60px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="60px" width="60px"/>
 </p>
 </div>
 
-##
+<h2 align="center">Contato</h2>
 <p align="center">
 <a href="https://linkedin.com/in/paulooosf" target="_blank"><img height="15%" width="15%" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/" alt="LinkedIn"/></a>
-<a href="https://instagram.com/paulooosf" target="_blank"><img height="17%" width="17%" src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/paulooosf/"/></a>
+<a href="https://instagram.com/paulooosf" target="_blank"><img height="22%" width="22%" src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/paulooosf/"/></a>
 </p>
 
